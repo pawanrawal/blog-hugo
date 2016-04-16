@@ -11,4 +11,10 @@ There are multitude of ways of setting up your blog, you could set it up on Word
 
 Sometime ago I came across this [post](https://medium.freecodecamp.com/domain-registrars-dns-and-hosting-353e4163a19#.b3jca1giu) on Medium. Its an excellent post which outlines the various steps needed to setup your blog. I will reiterate those points here for you.
 
-* Get a domain name - I had bought my domain from Go Daddy, but then I transferred it to namecheap because the UI is much easier to work with.
+1. I bought my domain from namecheap.com
+
+2. Added my site to Cloudflare
+
+3. Used custom DNS on Namecheap to point mysite to Cloudflare nameservers
+
+4. Setup Github pages - I didn't want to host the site myself, Github Pages looked simple and seemed to fit my use case.
