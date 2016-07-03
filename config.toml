@@ -1,4 +1,4 @@
-baseurl = "http://pawanrawal.github.io/"
+baseurl = "https://pawanrawal.com/"
 languageCode = "en-us"
 title = "Pawan's blog"
 theme = "hugo-cactus-theme"
@@ -7,8 +7,9 @@ discussShortname = "pawanrawal"
 [params]
   name = "Pawan Rawal"
   description = "This is my blog where I share what I learn."
-  bio = "Programmer who loves travel, hike, swim and run"
+  bio = "Programmer who loves to travel, hike, swim and run"
   twitter  = "pawan_rawal"
+  enableRSS = true
 
   iconFont = "mono-social"
 
@@ -16,3 +17,4 @@ discussShortname = "pawanrawal"
     twitter  = "https://www.twitter.com/pawan_rawal/"
     facebook = "https://www.facebook.com/pawanrawal1291/"
     github   = "https://www.github.com/pawanrawal/"
+
